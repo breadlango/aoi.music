@@ -31,7 +31,7 @@ export class AudioPlayer {
             shuffled: false,
             filtering: false,
             paused: false,
-            volume: 100,
+            volume: 250,
             currentTrack: 0,
             autoPlay: AutoPlay.None,
             filters: [],
